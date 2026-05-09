@@ -1,0 +1,1 @@
+Arrays are used in real systems to store and manage collections of data efficiently. For example, in a music app, an array can store a playlist of songs. Operating systems use arrays to manage memory and processes. Arrays are important because they allow quick access to data using indexes, making programs faster and more organized.
