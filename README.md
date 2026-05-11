@@ -1,1 +1,8 @@
-Arrays are used in real systems to store and manage collections of data efficiently. For example, in a music app, an array can store a playlist of songs. Operating systems use arrays to manage memory and processes. Arrays are important because they allow quick access to data using indexes, making programs faster and more organized.
+Kadane's algorithm is used to find the maximum summ of subArray
+
+here we take two variable -> summ and maxi both initalize with first value of list
+
+While moving through the array, we keep track of:
+
+summ → sum of the current subarray
+maxi → largest sum found so far
