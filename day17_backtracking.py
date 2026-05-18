@@ -1,15 +1,10 @@
-
-
 def subsets(nums):
-    
   result = []
 
   def rec(i,arr):
       if i==len(nums):
           result.append(arr[:])
           return 
-
-      # result.append(arr[:])
 
       arr.append(nums[i])
       rec(i+1, arr)
